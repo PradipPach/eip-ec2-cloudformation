@@ -1,6 +1,6 @@
 # eip-ec2-cloudformation
 eip-ec2-clousformation
-git clone https://github.com/atulkamble/eip-ec2-cloudformation.git
+git clone //https://github.com/PradipPach/eip-ec2-cloudformation.git
 cd eip-ec2-cloudformation
 Here’s a cheat-sheet of AWS CloudFormation CLI commands you can use for creating, managing, and troubleshooting stacks:
 
